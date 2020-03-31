@@ -1,4 +1,4 @@
-# Calculator with sliding SecondActivity Tutorial in Android-Studio
+# Calculator with sliding SecondActivity Tutorial in Android Studio by Arsh Anwar
 (Tutorial)
 - For adding Sliding Second Activity Inside a Simple Calculator.
 # Description
