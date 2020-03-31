@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator_2</string>
+    <string name="result">Result</string>
+    <string name="str"><![CDATA[<]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
