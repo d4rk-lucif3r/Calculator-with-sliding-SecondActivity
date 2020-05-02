@@ -4,4 +4,4 @@
 - Main Activity is a basic Calculator. 
 - Second Activity is a Sliding Activity With two Buttons For Locking and Unlocking Sliding Functionalities.
  # Preview
- - [@ScreenRec_20200331_015215.mp4](https://github.com/arshanwar/Calculator-with-sliding-Second-Activity-Tutorial-Android-Studio/blob/master/ScreenRec_20200331_015215.mp4) for the Preview.
+ -![Preview](https://github.com/arshanwar/Calculator-with-sliding-SecondActivity/blob/master/preview.gif.gif) 
