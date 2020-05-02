@@ -5,4 +5,4 @@
 - Main Activity is a basic Calculator. 
 - Second Activity is a Sliding Activity With two Buttons For Locking and Unlocking Sliding Functionalities.
  # Preview
- -![Preview](https://github.com/arshanwar/Calculator-with-sliding-SecondActivity/blob/master/preview.gif.gif) 
+ ![Preview](https://github.com/arshanwar/Calculator-with-sliding-SecondActivity/blob/master/preview.gif.gif) 
